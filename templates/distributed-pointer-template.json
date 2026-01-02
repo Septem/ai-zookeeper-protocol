@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://aeosub.com/#lethaldiranMX",
+  "url": "https://aeosub.com/team/",
+  "name": "LethaldiranMX",
+  "jobTitle": "Operations Manager & Growth Architect",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "PLACEHOLDER_CLIENT_NAME",
+    "url": "PLACEHOLDER_CLIENT_URL"
+  }
+}
