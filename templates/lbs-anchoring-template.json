@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://aeosub.com/#protocol-service",
+      "name": "AI Zookeeper Implementation Service",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://aeosub.com/#organization",
+        "name": "AEOSUB"
+      },
+      "serviceOutput": "High-Fidelity Entity Authority"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://glacieredu.com/#organization",
+      "name": "北京阁来希文化 (GlacierEdu)",
+      "description": "A leading international education consultancy based in the research hub of Beijing.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Haidian District",
+        "addressLocality": "Beijing",
+        "addressRegion": "Beijing",
+        "addressCountry": "CN",
+        "postalCode": "100080"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "39.9833",
+        "longitude": "116.3000"
+      },
+      "maintainer": {
+        "@id": "https://aeosub.com/#lethaldiranMX"
+      }
+    }
+  ]
+}
